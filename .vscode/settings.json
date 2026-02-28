@@ -1,0 +1,11 @@
+{
+  "files.associations": {
+    "*.mq5": "mql5",
+    "*.mqh": "mql5"
+  },
+  "C_Cpp.errorSquiggles": "disabled"
+}
+    "C_Cpp.default.forcedInclude": [
+        "c:\\Users\\shoha\\.vscode\\extensions\\l-i-v.mql-tools-2.1.0\\data\\mql5_en.mqh"
+    ]
+}
